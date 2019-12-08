@@ -1,0 +1,21 @@
+<!--index2.wxml-->
+<view>
+  <view>
+    民宿选址
+  </view>
+  <view>
+    <button style="width:300rpx;" bindtap="toDetail" data-id="0"> 景区民宿选址 </button>
+    <button style="width:300rpx;" bindtap="toDetail" data-id="1"> 城区民宿选址 </button>
+    <button style="width:300rpx;"> 乡村民宿选址 </button>
+  </view>
+  <view>
+    民宿设计
+  </view>
+  <view>
+    <button style="width:300rpx;"> 民宿设计原则 </button>
+    <button style="width:300rpx;"> 民宿建设规模 </button>
+    <button style="width:300rpx;"> 民宿总体布局 </button>
+    <button style="width:300rpx;"> 民宿消防设计 </button>
+    <button style="width:300rpx;"> 民宿交通流线设计 </button>
+  </view>
+</view>
